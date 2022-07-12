@@ -1,0 +1,99 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/c7Mjuip0jfHLY7x8ZSEriRj45cu.jpg",
+      "genre_ids": [
+        12,
+        28
+      ],
+      "id": 85,
+      "original_language": "en",
+      "original_title": "Raiders of the Lost Ark",
+      "overview": "Der Archäologe Dr.Henry Jones wird, nachdem er von seinem französischen Kollegen Belloq nach einer Bergung aus einem Aztekengrab hereingelegt wurde, von Regierungsagenten auf die Bundeslade angesetzt, das Behältnis in dem Moses' Gesetzestafeln aufbewahrt wurden.Laut Geheiminformationen suchen die Nazis nach der Lade, da sie den Besitzer unbesiegbar machen soll. Jones, genannt Indiana Jones, reist daraufhin nach Nepal, wo er einen alten Kollegen aufspüren will, jedoch nur dessen Tochter findet, die sich an ihn ranhängt. Ein altes Schmuckstück führt sie nach Ägypten, wo die Nazis mit Belloqs Hilfe bereits Ausgrabungen vornehmen. So kommt es zum Wettlauf um die Auffindung der Quelle der Seelen, wo die Lade stehen soll. Doch auch nachdem die Lade aus der schlangenverseuchten Quelle geborgen ist, ist das Spiel noch lange nicht vorbei....",
+      "popularity": 33.304,
+      "poster_path": "/8cWx3s2Wfo15DzUyIE8scg3eNdb.jpg",
+      "release_date": "1981-06-12",
+      "title": "Jäger des verlorenen Schatzes",
+      "video": false,
+      "vote_average": 7.9,
+      "vote_count": 10097
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/lhvl5Hu5SYAfGgjhy8R5p2CrjQp.jpg",
+      "genre_ids": [
+        99,
+        10770
+      ],
+      "id": 362198,
+      "original_language": "en",
+      "original_title": "The Making of 'Raiders of the Lost Ark'",
+      "overview": "",
+      "popularity": 2.393,
+      "poster_path": "/saYA5L7n0H3yim0qn1fJdEhQXGP.jpg",
+      "release_date": "1981-11-28",
+      "title": "The Making of 'Raiders of the Lost Ark'",
+      "video": false,
+      "vote_average": 7.3,
+      "vote_count": 4
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        28,
+        12
+      ],
+      "id": 62128,
+      "original_language": "en",
+      "original_title": "Raiders of the Lost Ark: The Adaptation",
+      "overview": "",
+      "popularity": 1.965,
+      "poster_path": "/r5sTO7GdavGPHD6Vxmsz8cYVis7.jpg",
+      "release_date": "1989-01-01",
+      "title": "Raiders of the Lost Ark: The Adaptation",
+      "video": false,
+      "vote_average": 6.4,
+      "vote_count": 15
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        99,
+        10770
+      ],
+      "id": 362197,
+      "original_language": "en",
+      "original_title": "Great Movie Stunts: Raiders of the Lost Ark",
+      "overview": "",
+      "popularity": 0.986,
+      "poster_path": "/36PzBh6Qw7zmcbCSG64B8d6uERC.jpg",
+      "release_date": "1981-10-05",
+      "title": "Great Movie Stunts: Raiders of the Lost Ark",
+      "video": false,
+      "vote_average": 6.5,
+      "vote_count": 4
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [],
+      "id": 872080,
+      "original_language": "zh",
+      "original_title": "超级大山炮之夺宝奇兵",
+      "overview": "",
+      "popularity": 0.6,
+      "poster_path": "/cL72qyYtsxtnRnIhSOYpc3FxBN2.jpg",
+      "release_date": "2017-05-28",
+      "title": "超级大山炮之夺宝奇兵",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 5
+}

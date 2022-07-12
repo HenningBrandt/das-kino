@@ -1,0 +1,205 @@
+{
+  "adult": false,
+  "backdrop_path": "/xHrp2pq73oi9D64xigPjWW1wcz1.jpg",
+  "belongs_to_collection": {
+    "id": 948485,
+    "name": "The Batman Filmreihe",
+    "poster_path": "/tuzKA9K5Ae9IzaA0R9oAgbyhAI3.jpg",
+    "backdrop_path": "/qS2ViQwlWUECiAdkIuEaJZoq0QW.jpg"
+  },
+  "budget": 185000000,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Krimi"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://www.thebatman.com",
+  "id": 414906,
+  "imdb_id": "tt1877830",
+  "original_language": "en",
+  "original_title": "The Batman",
+  "overview": "In seinem zweiten Jahr der Verbrechensbekämpfung deckt Batman Korruption in Gotham City auf, die mit seiner eigenen Familie in Verbindung steht, während er einem Serienmörder, der als Riddler bekannt ist, gegenübersteht.",
+  "popularity": 3006.855,
+  "poster_path": "/6zm78OqO4jWCpuaZ7q6Mb5j1beM.jpg",
+  "production_companies": [
+    {
+      "id": 101405,
+      "logo_path": null,
+      "name": "6th & Idaho",
+      "origin_country": "US"
+    },
+    {
+      "id": 119245,
+      "logo_path": null,
+      "name": "Dylan Clark Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 128064,
+      "logo_path": "/13F3Jf7EFAcREU0xzZqJnVnyGXu.png",
+      "name": "DC Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 174,
+      "logo_path": "/IuAlhI9eVC9Z8UQWOIDdWRKSEJ.png",
+      "name": "Warner Bros. Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2022-03-01",
+  "revenue": 768442517,
+  "runtime": 176,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Die Masken werden fallen",
+  "title": "The Batman",
+  "video": false,
+  "vote_average": 7.8,
+  "vote_count": 4904,
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "de",
+        "iso_3166_1": "DE",
+        "name": "Preview: 7 Minuten aus dem Film",
+        "key": "MyUwGdqKt60",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "published_at": "2022-04-19T13:18:39.000Z",
+        "id": "625faa3adfaae9017367040a"
+      },
+      {
+        "iso_639_1": "de",
+        "iso_3166_1": "DE",
+        "name": "Preview: Beerdigungsszene",
+        "key": "KAeddge-VB8",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "published_at": "2022-02-11T14:45:04.000Z",
+        "id": "620a080bef8b32008bcd2179"
+      },
+      {
+        "iso_639_1": "de",
+        "iso_3166_1": "DE",
+        "name": "Trailer #3",
+        "key": "seTKZxUptGk",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "published_at": "2022-01-19T16:00:24.000Z",
+        "id": "61e96737fea0d7006ad30de8"
+      },
+      {
+        "iso_639_1": "de",
+        "iso_3166_1": "DE",
+        "name": "Offizieller Trailer #2",
+        "key": "jGRnbHmrP7M",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "published_at": "2021-10-16T20:35:45.000Z",
+        "id": "616bdaa3c5840d004608ea8f"
+      },
+      {
+        "iso_639_1": "de",
+        "iso_3166_1": "DE",
+        "name": "DC FanDome Teaser Trailer",
+        "key": "fgwdpT8I0jU",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "published_at": "2020-08-23T00:57:40.000Z",
+        "id": "60ef38be706e560045c44b0e"
+      }
+    ]
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 1500,
+        "iso_639_1": "de",
+        "file_path": "/6zm78OqO4jWCpuaZ7q6Mb5j1beM.jpg",
+        "vote_average": 5.456,
+        "vote_count": 5,
+        "width": 1000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 1500,
+        "iso_639_1": "de",
+        "file_path": "/6FksXo5N4AIzsNipxh7EjVHiRS6.jpg",
+        "vote_average": 5.312,
+        "vote_count": 1,
+        "width": 1000
+      },
+      {
+        "aspect_ratio": 0.707,
+        "height": 1185,
+        "iso_639_1": "de",
+        "file_path": "/mVchtn3HefGSeNoThTENRIoI0bS.jpg",
+        "vote_average": 5.172,
+        "vote_count": 1,
+        "width": 838
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 1212,
+        "iso_639_1": "de",
+        "file_path": "/tUzn0GiNbxskcMPPXJFIPShSAtJ.jpg",
+        "vote_average": 5.172,
+        "vote_count": 1,
+        "width": 808
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 1500,
+        "iso_639_1": "de",
+        "file_path": "/3AoP9A6MfC6rrfOgp6bAyUn9qya.jpg",
+        "vote_average": 5.106,
+        "vote_count": 2,
+        "width": 1000
+      },
+      {
+        "aspect_ratio": 0.709,
+        "height": 762,
+        "iso_639_1": "de",
+        "file_path": "/ElVTrIoYyPEVQXU9XKCCkSxGC.jpg",
+        "vote_average": 4.982,
+        "vote_count": 4,
+        "width": 540
+      }
+    ]
+  }
+}

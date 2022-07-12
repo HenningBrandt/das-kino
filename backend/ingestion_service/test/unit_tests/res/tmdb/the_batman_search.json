@@ -1,0 +1,404 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/xHrp2pq73oi9D64xigPjWW1wcz1.jpg",
+      "genre_ids": [
+        80,
+        9648,
+        53
+      ],
+      "id": 414906,
+      "original_language": "en",
+      "original_title": "The Batman",
+      "overview": "In seinem zweiten Jahr der Verbrechensbekämpfung deckt Batman Korruption in Gotham City auf, die mit seiner eigenen Familie in Verbindung steht, während er einem Serienmörder, der als Riddler bekannt ist, gegenübersteht.",
+      "popularity": 3006.855,
+      "poster_path": "/6zm78OqO4jWCpuaZ7q6Mb5j1beM.jpg",
+      "release_date": "2022-03-01",
+      "title": "The Batman",
+      "video": false,
+      "vote_average": 7.8,
+      "vote_count": 4897
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        80,
+        18,
+        28
+      ],
+      "id": 806704,
+      "original_language": "en",
+      "original_title": "Untitled The Batman Sequel",
+      "overview": "",
+      "popularity": 18.96,
+      "poster_path": "/wcKmAOW9yndR8ZAFAC3QJPtdLQT.jpg",
+      "release_date": "",
+      "title": "Untitled The Batman Sequel",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/bNRGyGTOQSb9q0ruaLZbUYwJgpO.jpg",
+      "genre_ids": [
+        14,
+        16,
+        27,
+        28,
+        53,
+        878,
+        10751,
+        9648
+      ],
+      "id": 20077,
+      "original_language": "en",
+      "original_title": "The Batman vs. Dracula",
+      "overview": "Der Joker und der Pinguin befreien Dracula, den Herrscher der Finsternis, aus dem Grab. Gotham Citys einzige Hoffnung, nicht durch Dracula versklavt zu werden, ist der dunkle Ritter.",
+      "popularity": 14.081,
+      "poster_path": "/dBysIm8mEhvlemR5xeWUcE0P4TN.jpg",
+      "release_date": "2005-10-18",
+      "title": "Batman vs. Dracula",
+      "video": false,
+      "vote_average": 7,
+      "vote_count": 256
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jqnbac3oind5VOcAN0mTXyapOGh.jpg",
+      "genre_ids": [
+        16,
+        28,
+        35
+      ],
+      "id": 324849,
+      "original_language": "en",
+      "original_title": "The Lego Batman Movie",
+      "overview": "LEGO-Batman erlebt nach seinem ersten Leinwand-Auftritt in „The LEGO Movie“ nun ein Solo-Abenteuer, in dem es um die Frage geht: Kann Batman glücklich sein? Wir erfahren, dass Batman einst als Bruce Wayne ein Kind adoptierte – aus Versehen auf einer Wohltätigkeitsveranstaltung. Doch der Sohnemann, Dick Grayson alias Robin, nagt dem Heldenpapa mächtig an den Nerven: Im Gegensatz zu Batman ist er nämlich die ganze Zeit super-positiv drauf – und er will im Batmobil vorne sitzen, was natürlich gar nicht geht. Zumal Batman ohnehin schon genug Stress mit dem Joker hat. Der will dem Dunklen Ritter unbedingt beweisen, dass er der größte Bösewicht aller Zeiten ist.",
+      "popularity": 39.535,
+      "poster_path": "/lvX8AE6UwbUOMow5mYWdueM53GF.jpg",
+      "release_date": "2017-02-08",
+      "title": "The Lego Batman Movie",
+      "video": false,
+      "vote_average": 7.2,
+      "vote_count": 4129
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4AWRldj2pUEP8L61OP1cG2jIuq8.jpg",
+      "genre_ids": [
+        28,
+        16,
+        10770,
+        878
+      ],
+      "id": 17074,
+      "original_language": "en",
+      "original_title": "The Batman Superman Movie: World's Finest",
+      "overview": "Der Joker zieht nach Metropolis um für Lex Luthor Superman zu töten, doch Batman ist ihm auf den Fersen. Gegen die beiden Erzfeinde müssen die beiden Helden wohl oder übel ihre Differenzen beiseite legen.",
+      "popularity": 9.799,
+      "poster_path": "/dQxwNGQ6pQLCUE5vaI9PwIZK6UC.jpg",
+      "release_date": "1997-10-04",
+      "title": "The Batman Superman Movie: World's Finest",
+      "video": false,
+      "vote_average": 7.3,
+      "vote_count": 188
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [],
+      "id": 973742,
+      "original_language": "en",
+      "original_title": "The Batman Returns",
+      "overview": "",
+      "popularity": 3.395,
+      "poster_path": "/r7vKxlnonroXI5qDE7jveGC8z6W.jpg",
+      "release_date": "",
+      "title": "The Batman Returns",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/yh1oeZ4lDImu48HfWJK84rDtQdH.jpg",
+      "genre_ids": [
+        35,
+        28
+      ],
+      "id": 981091,
+      "original_language": "es",
+      "original_title": "The Batman (Plancarte)",
+      "overview": "",
+      "popularity": 2.744,
+      "poster_path": "/sCvawDDVZE5ijUj6dk5flmO0RXM.jpg",
+      "release_date": "2022-05-25",
+      "title": "The Batman (Plancarte)",
+      "video": true,
+      "vote_average": 10,
+      "vote_count": 1
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/j14Z0pP7tpuHZlVBSuUL7tq2SGb.jpg",
+      "genre_ids": [
+        16,
+        9648,
+        28,
+        80
+      ],
+      "id": 736074,
+      "original_language": "en",
+      "original_title": "Batman: The Long Halloween, Part Two",
+      "overview": "Der Holiday Killer mordet witer in Gotham City. Mit jedem neuen Verbrechen wachsen die Spannungen zwischen den kriminellen Familien Falcone und Maroni. Während Batman, James Gordon und Harvey Dent versuchen, den Holiday Killer aufzuspüren, kommt es im Arkham Asylum zu einem schwerwiegenden Sicherheitsvorfall.",
+      "popularity": 66.274,
+      "poster_path": "/oWRgaHNalw8rjTUOcCgfTduVfQZ.jpg",
+      "release_date": "2021-07-26",
+      "title": "Batman: The Long Halloween - Teil 2",
+      "video": false,
+      "vote_average": 7.7,
+      "vote_count": 310
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ofC1u2mYUWdZI3RxLW4dBvh9Q39.jpg",
+      "genre_ids": [
+        28,
+        16,
+        80,
+        18
+      ],
+      "id": 382322,
+      "original_language": "en",
+      "original_title": "Batman: The Killing Joke",
+      "overview": "Batmans gefährlichster Widersacher, der Joker, ist mal wieder aus dem Arkham Asylum ausgebrochen. Während sich der Dunkle Ritter erfolglos auf die Spurensuche nach dem verrückten Killer-Clown begibt, überfallt der Joker Comissioner Gordon und verletzt dabei dessen Tochter Barbara alias Batgirl, sodass sie fortan an einen Rollstuhl gefesselt ist. Mit den Bildern dieser Schreckenstat versucht der Superschurke, den aufrichtigen Gordon in den Wahn zu treiben. Als Batman schließlich mithilfe eines Hinweises vom Joker dessen Versteck in einem verlassenen Vergnügungspark ausfindig macht, könnte es bereits zu spät sein um das geistige Wohl seines Freunds Gordon...",
+      "popularity": 25.369,
+      "poster_path": "/nxncAAL1FUKtQWs4uhs5jf1MVut.jpg",
+      "release_date": "2016-07-24",
+      "title": "Batman: The Killing Joke",
+      "video": false,
+      "vote_average": 6.6,
+      "vote_count": 1456
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/lUTEIyCZlVLmLj5DSax2VfzHWsR.jpg",
+      "genre_ids": [
+        99,
+        36
+      ],
+      "id": 220890,
+      "original_language": "en",
+      "original_title": "The Batman Shootings",
+      "overview": "",
+      "popularity": 1.4,
+      "poster_path": null,
+      "release_date": "2012-08-19",
+      "title": "The Batman Shootings",
+      "video": false,
+      "vote_average": 5.8,
+      "vote_count": 3
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/uS9apevOgs2fuYghf9szOoK1u63.jpg",
+      "genre_ids": [
+        16,
+        9648,
+        28,
+        80
+      ],
+      "id": 736073,
+      "original_language": "en",
+      "original_title": "Batman: The Long Halloween, Part One",
+      "overview": "Batman verfolgt einen Serienmörder, der nur an Feiertagen wie Halloween, Thanksgiving oder Weihnachten aktiv wird.",
+      "popularity": 56.212,
+      "poster_path": "/aG1x6yrnbHrLGBcyOe5PcK3CbPo.jpg",
+      "release_date": "2021-06-21",
+      "title": "Batman: The Long Halloween - Teil 1",
+      "video": false,
+      "vote_average": 7.7,
+      "vote_count": 365
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/bUQGT4xJib43OrnpmNzgrGaLWJM.jpg",
+      "genre_ids": [
+        28,
+        16
+      ],
+      "id": 472027,
+      "original_language": "en",
+      "original_title": "Batman: The Dark Knight Returns",
+      "overview": "",
+      "popularity": 15.671,
+      "poster_path": "/9uydeANO6PLpD6Irh7qLizaEMjk.jpg",
+      "release_date": "2013-10-08",
+      "title": "Batman: The Dark Knight Returns",
+      "video": true,
+      "vote_average": 8.4,
+      "vote_count": 88
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1YaG52CwGY3pKh76OBlwX0ymncg.jpg",
+      "genre_ids": [
+        878,
+        28,
+        16,
+        9648
+      ],
+      "id": 123025,
+      "original_language": "en",
+      "original_title": "Batman: The Dark Knight Returns, Part 1",
+      "overview": "Vor zehn Jahren verschwand der dunkle Rächer Batman, ohne jemals wieder ein Lebenszeichen von sich zu geben. Mittlerweile regiert das Verbrechen die einst glänzende Stadt Gotham City. Der nun 55-jährige Bruce Wayne kann dem Trauerspiel nicht mehr zuschauen und schlüpft erneut in sein Cape, um das Verbrechen aus Gotham zu verbannen …",
+      "popularity": 30.028,
+      "poster_path": "/kkjTbwV1Xnj8wBL52PjOcXzTbnb.jpg",
+      "release_date": "2012-08-21",
+      "title": "Batman: The Dark Knight Returns, Teil 1",
+      "video": false,
+      "vote_average": 7.8,
+      "vote_count": 1236
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9Eh5xzWTpJeZM1FGCblWKZ8GTpw.jpg",
+      "genre_ids": [
+        878,
+        28,
+        16,
+        9648
+      ],
+      "id": 142061,
+      "original_language": "en",
+      "original_title": "Batman: The Dark Knight Returns, Part 2",
+      "overview": "Eine weitere Nacht bricht an über Gotham City und mit der Dunkelheit kommen auch das Verbrechen und die Niederträchtigkeit aus den dunklen Ecken hervorgekrochen. Batman und die anderen Superhelden sind nur noch verblasste Erinnerungen; Gewalt und Verzweiflung prägen die Gegenwart Gotham Citys. Doch als der mittlerweile wieder in die Gesellschaft integrierte Harvey „Two Face“ Dent aus seinem Leben ausbricht und es gegen Korruption und Verbrechen eintauscht, legt der gealterte und abgekämpfte Bruce Wayne ein weiteres Mal Maske und Umhang an. Verbrecher können sich nicht verstecken, wenn der Dark Knight zurückkehrt!",
+      "popularity": 24.083,
+      "poster_path": "/arEZYd6uMOFTILne9Ux0A8qctMe.jpg",
+      "release_date": "2013-01-03",
+      "title": "Batman: The Dark Knight Returns, Teil 2",
+      "video": false,
+      "vote_average": 8,
+      "vote_count": 1140
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/i3rAPqX7bbQTmHal1wevNNN46tF.jpg",
+      "genre_ids": [
+        99
+      ],
+      "id": 351015,
+      "original_language": "en",
+      "original_title": "Behind the Mask: The Batman Dead End Story",
+      "overview": "",
+      "popularity": 1.976,
+      "poster_path": "/mYJJeoi5hZKFJAFNT139DD2CAti.jpg",
+      "release_date": "2015-07-10",
+      "title": "Behind the Mask: The Batman Dead End Story",
+      "video": false,
+      "vote_average": 8,
+      "vote_count": 4
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/rW1HBySTmHoZCUuOiZbApUhKFjn.jpg",
+      "genre_ids": [
+        16,
+        35,
+        28,
+        10751
+      ],
+      "id": 484862,
+      "original_language": "en",
+      "original_title": "Scooby-Doo! & Batman: The Brave and the Bold",
+      "overview": "Scooby-Doo, Shaggy, Fred, Daphne und Velma schließen sich mit Batman zusammen, als sie erfahren, dass sich eine Gruppe Schurken verbündet hat, um die Stadt zu terrorisieren. Der Joker, Catwoman, Riddler und andere machen ihnen dabei das Leben schwer.",
+      "popularity": 16.989,
+      "poster_path": "/hSPeF1zoYH8kCOhFMu7x3B55zu6.jpg",
+      "release_date": "2018-01-31",
+      "title": "Scooby-Doo! & Batman: The Brave and the Bold",
+      "video": false,
+      "vote_average": 7.4,
+      "vote_count": 170
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [],
+      "id": 973733,
+      "original_language": "en",
+      "original_title": "The Batman Birth of the Clown",
+      "overview": "",
+      "popularity": 0.882,
+      "poster_path": "/vaFpIk9vGKug6FScOQ7cpk5MMDO.jpg",
+      "release_date": "",
+      "title": "The Batman Birth of the Clown",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        35,
+        16,
+        12,
+        28
+      ],
+      "id": 974707,
+      "original_language": "en",
+      "original_title": "The Lego Batman Movie: World's Finest",
+      "overview": "",
+      "popularity": 2.579,
+      "poster_path": "/8dZoFzpGPSGgTYtt29o2d2VAvF0.jpg",
+      "release_date": "",
+      "title": "The Lego Batman Movie: World's Finest",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        28,
+        16
+      ],
+      "id": 498471,
+      "original_language": "en",
+      "original_title": "Batman: The Animated Series - The Legend Begins",
+      "overview": "",
+      "popularity": 3.891,
+      "poster_path": "/A3VfRAu8UqN13Jdr8JYh3Kb48DY.jpg",
+      "release_date": "1992-04-23",
+      "title": "Batman: The Animated Series - The Legend Begins",
+      "video": true,
+      "vote_average": 8.1,
+      "vote_count": 7
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        99
+      ],
+      "id": 548888,
+      "original_language": "en",
+      "original_title": "One Brick at a Time: Making the LEGO Batman Movie",
+      "overview": "",
+      "popularity": 3.636,
+      "poster_path": "/4aCdhj8YOtS8PYJlHAYhujClPlD.jpg",
+      "release_date": "2017-06-19",
+      "title": "One Brick at a Time: Making the LEGO Batman Movie",
+      "video": true,
+      "vote_average": 4.3,
+      "vote_count": 3
+    }
+  ],
+  "total_pages": 2,
+  "total_results": 38
+}

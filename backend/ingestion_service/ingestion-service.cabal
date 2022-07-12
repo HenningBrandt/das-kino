@@ -1,0 +1,155 @@
+cabal-version:      2.4
+name:               ingestion-service
+version:            0.1.0.0
+synopsis:
+  Service responsible for ingesting movies and showtimes data into "DasKino" system
+
+description:        Please see the README
+author:             Henning Brandt
+maintainer:         thepurecoder@gmail.com
+copyright:          2022 Henning Brandt
+license-file:       LICENSE
+category:           Web
+extra-source-files:
+  LICENSE
+  README.md
+
+-- Shared set of dependencies available in every build product
+common stdlib
+  build-depends:
+    , aeson                 ^>=2.0.3.0
+    , base                  ^>=4.14.3.0
+    , bytestring            ^>=0.10.0.0
+    , deriving-aeson        ^>=0.2.8
+    , directory             ^>=1.3.6.0
+    , filepath              ^>=1.4.2.0
+    , modern-uri            ^>=0.3.4.4
+    , optics                ^>=0.4.2
+    , optics-th             ^>=0.4.1
+    , polysemy              ^>=1.7.1.0
+    , text                  ^>=1.2.5.0
+    , time                  ^>=1.9
+    , unordered-containers  ^>=0.2.19.1
+
+-- Custom language standard that applies to every build product
+common stdlang
+  default-language:   Haskell2010
+  ghc-options:        -O2 -flate-specialise -fspecialise-aggressively
+  default-extensions:
+    DataKinds
+    DeriveAnyClass
+    DeriveGeneric
+    DerivingStrategies
+    DerivingVia
+    DuplicateRecordFields
+    FlexibleContexts
+    FlexibleInstances
+    GADTs
+    GeneralizedNewtypeDeriving
+    LambdaCase
+    MultiParamTypeClasses
+    OverloadedLabels
+    OverloadedStrings
+    PolyKinds
+    RankNTypes
+    ScopedTypeVariables
+    StandaloneDeriving
+    TupleSections
+    TypeApplications
+    TypeFamilies
+    TypeOperators
+
+executable ingestion-service
+  import:        stdlang, stdlib
+  main-is:       Main.hs
+  build-depends:
+    , adapter
+    , dhall     ^>=1.41.1
+    , domain
+    , overture
+
+test-suite unit-tests
+  import:         stdlang, stdlib
+  type:           exitcode-stdio-1.0
+  hs-source-dirs: test/unit_tests
+  main-is:        Spec.hs
+  other-modules:
+    DasKinoScraperSpec
+    TMDBClientSpec
+
+  build-depends:
+    , domain
+    , hspec   ^>=2.10.0
+
+-- Common utilities. Think of it as an extension to Prelude
+library overture
+  import:          stdlang, stdlib
+  hs-source-dirs:  src/overture
+  exposed-modules:
+    Overture.Alternative
+    Overture.Bool
+    Overture.Data
+    Overture.Deriving
+    Overture.Either
+    Overture.Monad
+    Overture.Text
+    Overture.Time
+
+  build-depends:   aeson-pretty ^>=0.8.9
+
+-- Domain logic component. Other components are allowed to depend on the domain,
+-- but the domain is not allowed to depend on other components.
+library domain
+  import:          stdlang, stdlib
+  hs-source-dirs:  src/domain
+  other-modules:
+    Domain.Enrichement
+    Domain.Movie
+    Port.DTO.Collection
+    Port.DTO.Configuration
+    Port.DTO.Genre
+    Port.DTO.Image
+    Port.DTO.ImageAppendix
+    Port.DTO.Movie
+    Port.DTO.MovieDetail
+    Port.DTO.MovieStatus
+    Port.DTO.Page
+    Port.DTO.ProductionCompany
+    Port.DTO.ProductionCountry
+    Port.DTO.SpokenLanguage
+    Port.DTO.Video
+    Port.DTO.VideoAppendix
+
+  exposed-modules:
+    Domain.Configuration
+    Domain.Ingestion
+    Domain.Scraper
+    Port.Clock
+    Port.Database
+    Port.HTTP
+    Port.TMDB
+
+  build-depends:
+    , groupBy   ^>=0.1.0.0
+    , overture
+    , parsec    ^>=3.1.15.1
+    , scalpel   ^>=0.6.2
+    , tzdata    ==0.2.20220315.0
+
+-- Adapter layer to provide implementations for domain effects.
+library adapter
+  import:          stdlang, stdlib
+  hs-source-dirs:  src/adapter
+  exposed-modules:
+    Adapter.Clock
+    Adapter.Database
+    Adapter.HTTP
+    Adapter.TMDB
+
+  build-depends:
+    , AesonBson  ^>=0.4.1
+    , domain
+    , mongoDB    ^>=2.7.1.1
+    , overture
+    , req        ^>=3.12.0
+    , tzdata     ==0.2.20220315.0

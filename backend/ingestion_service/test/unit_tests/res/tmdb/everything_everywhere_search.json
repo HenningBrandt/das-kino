@@ -1,0 +1,43 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/wp3vpSWAIjKSEeYb8F5NSZfONqw.jpg",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "id": 545611,
+      "original_language": "en",
+      "original_title": "Everything Everywhere All at Once",
+      "overview": "Waschsalonbesitzerin Evelyn Wang geht im Chaos ihres Alltags unter: Der bevorstehende Besuch ihres Vaters überfordert sie, die Wünsche der Kunden bringen sie an ihre Grenzen und die anstehende Steuererklärung wächst ihr komplett über den Kopf. Der Gang zum Finanzamt ist unausweichlich, doch während sie mit ihrer Familie bei der Steuerprüferin vorspricht, wird ihr Universum komplett durcheinandergewirbelt. Raum und Zeit lösen sich auf, und die Menschen um sie herum haben, ebenso wie sie selbst, plötzlich weitere Leben in Parallelwelten. Sie entdeckt, dass das Multiversum real ist und sie auf die Fähigkeiten und das Leben anderer Versionen ihrer selbst zugreifen kann. Das ist auch bitter nötig, denn sie wird mit einer großen, wenn nicht der größtmöglichen Mission betraut: Der Rettung der Welt vor dem unbekannten Bösen.",
+      "popularity": 181.514,
+      "poster_path": "/wijpkcLGfYuBIGu7xgOlQgV9R5I.jpg",
+      "release_date": "2022-03-24",
+      "title": "Everything Everywhere All at Once",
+      "video": false,
+      "vote_average": 8.5,
+      "vote_count": 436
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [],
+      "id": 537467,
+      "original_language": "en",
+      "original_title": "Everything Everywhere Again Alive",
+      "overview": "",
+      "popularity": 1.4,
+      "poster_path": "/4rXtfb2zZR4m1fUP3NQptBPcrjt.jpg",
+      "release_date": "1975-01-01",
+      "title": "Everything Everywhere Again Alive",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 2
+}

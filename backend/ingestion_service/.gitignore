@@ -1,0 +1,5 @@
+# Build output
+dist-newstyle
+
+# Secrets
+.env

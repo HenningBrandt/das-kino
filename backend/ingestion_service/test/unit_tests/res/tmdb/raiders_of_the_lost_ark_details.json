@@ -1,0 +1,285 @@
+{
+  "adult": false,
+  "backdrop_path": "/c7Mjuip0jfHLY7x8ZSEriRj45cu.jpg",
+  "belongs_to_collection": {
+    "id": 84,
+    "name": "Indiana Jones Filmreihe",
+    "poster_path": "/mJqUCi9Ey3uqfc8P2e2gmqtrCgN.jpg",
+    "backdrop_path": "/6kh59mZizZsttZPR0HAdXk6Ve2n.jpg"
+  },
+  "budget": 18000000,
+  "genres": [
+    {
+      "id": 12,
+      "name": "Abenteuer"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "homepage": "http://www.indianajones.com",
+  "id": 85,
+  "imdb_id": "tt0082971",
+  "original_language": "en",
+  "original_title": "Raiders of the Lost Ark",
+  "overview": "Der Archäologe Dr.Henry Jones wird, nachdem er von seinem französischen Kollegen Belloq nach einer Bergung aus einem Aztekengrab hereingelegt wurde, von Regierungsagenten auf die Bundeslade angesetzt, das Behältnis in dem Moses' Gesetzestafeln aufbewahrt wurden.Laut Geheiminformationen suchen die Nazis nach der Lade, da sie den Besitzer unbesiegbar machen soll. Jones, genannt Indiana Jones, reist daraufhin nach Nepal, wo er einen alten Kollegen aufspüren will, jedoch nur dessen Tochter findet, die sich an ihn ranhängt. Ein altes Schmuckstück führt sie nach Ägypten, wo die Nazis mit Belloqs Hilfe bereits Ausgrabungen vornehmen. So kommt es zum Wettlauf um die Auffindung der Quelle der Seelen, wo die Lade stehen soll. Doch auch nachdem die Lade aus der schlangenverseuchten Quelle geborgen ist, ist das Spiel noch lange nicht vorbei....",
+  "popularity": 33.304,
+  "poster_path": "/8cWx3s2Wfo15DzUyIE8scg3eNdb.jpg",
+  "production_companies": [
+    {
+      "id": 4,
+      "logo_path": "/gz66EfNoYPqHTYI4q9UEN4CbHRc.png",
+      "name": "Paramount",
+      "origin_country": "US"
+    },
+    {
+      "id": 1,
+      "logo_path": "/o86DbpburjxrqAzEDhXZcyE8pDb.png",
+      "name": "Lucasfilm Ltd.",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1981-06-12",
+  "revenue": 389925971,
+  "runtime": 115,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Hebrew",
+      "iso_639_1": "he",
+      "name": "עִבְרִית"
+    },
+    {
+      "english_name": "Arabic",
+      "iso_639_1": "ar",
+      "name": "العربية"
+    },
+    {
+      "english_name": "Nepali",
+      "iso_639_1": "ne",
+      "name": ""
+    }
+  ],
+  "status": "Released",
+  "tagline": "Indiana Jones - Jäger des verlorenen Schatzes",
+  "title": "Jäger des verlorenen Schatzes",
+  "video": false,
+  "vote_average": 7.9,
+  "vote_count": 10097,
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "\"Plane Explosion\" Behind the Scenes",
+        "key": "lfPoxH58fCU",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Behind the Scenes",
+        "official": true,
+        "published_at": "2021-06-14T15:59:54.000Z",
+        "id": "62730bff99c964005188543f"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "\"Snakes\" Behind the Scenes",
+        "key": "ydReVxBsoPg",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Behind the Scenes",
+        "official": true,
+        "published_at": "2021-06-13T15:59:50.000Z",
+        "id": "62730c137a1bd6009c463061"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "\"Fall\" Behind the Scenes",
+        "key": "63yO3bZr3pA",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Behind the Scenes",
+        "official": true,
+        "published_at": "2021-06-12T15:59:52.000Z",
+        "id": "62730c378741c4005059b4e7"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Paramount Movies Trailer",
+        "key": "0xQSIdSRlAk",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "published_at": "2021-05-11T18:59:53.000Z",
+        "id": "60f8179cfd140b007e5bd63e"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "1983 Re-Issue Trailer",
+        "key": "jj7eN9avhEc",
+        "published_at": "2017-08-07T07:05:44.000Z",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": false,
+        "id": "59892334c3a36874ad008280"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Teaser",
+        "key": "_RmmbPdckSg",
+        "published_at": "2017-08-07T07:05:27.000Z",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Teaser",
+        "official": false,
+        "id": "5989234e9251414bac0094a7"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Ti West on Raiders of the Lost Ark",
+        "key": "S6ruDPy5isk",
+        "published_at": "2014-11-24T04:00:02.000Z",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": false,
+        "id": "54732a549251416dc30019fd"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Theatrical Trailer",
+        "key": "XkkzKHCx154",
+        "published_at": "2012-09-24T18:21:43.000Z",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": false,
+        "id": "5614796d92514172d6003be0"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Steven Spielberg on Raiders of the Lost Ark",
+        "key": "X4DOyCPRlx0",
+        "published_at": "2011-07-13T23:50:29.000Z",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": false,
+        "id": "533ec652c3a368544800009c"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Harrison Ford on Raiders of the Lost Ark and Indiana Jones",
+        "key": "FSKhhPUyVV0",
+        "published_at": "2011-06-13T23:21:39.000Z",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": false,
+        "id": "533ec652c3a368544800009d"
+      }
+    ]
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_639_1": "de",
+        "file_path": "/3lC172mB896G6fXo8jM5Ae0wPEA.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 1920
+      }
+    ],
+    "logos": [
+      {
+        "aspect_ratio": 2.512,
+        "height": 293,
+        "iso_639_1": "de",
+        "file_path": "/6UkVejM8Y3AbD3eLHPb7BZWg8iZ.png",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 736
+      }
+    ],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 2100,
+        "iso_639_1": "de",
+        "file_path": "/8cWx3s2Wfo15DzUyIE8scg3eNdb.jpg",
+        "vote_average": 5.312,
+        "vote_count": 1,
+        "width": 1400
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 2100,
+        "iso_639_1": "de",
+        "file_path": "/aoxTS0J6njY7NMHqeDZZqprFOKL.jpg",
+        "vote_average": 5.312,
+        "vote_count": 1,
+        "width": 1400
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_639_1": "de",
+        "file_path": "/t4oencrM2zij4XoZk3gZXwuBqZT.jpg",
+        "vote_average": 5.172,
+        "vote_count": 1,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.707,
+        "height": 1183,
+        "iso_639_1": "de",
+        "file_path": "/slqoqlgnCDIqZ6mKGZdcA7BLP0c.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 836
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 1200,
+        "iso_639_1": "de",
+        "file_path": "/6rHiuvcrjfZhdwZXFh4fYE2Eu51.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 800
+      }
+    ]
+  }
+}
